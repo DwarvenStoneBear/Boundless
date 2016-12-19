@@ -1,0 +1,262 @@
+ INFO  ..\..\src\appbase\win\winentry.cpp:429 (turbulenz::WinNativeEntry::HostWndProc) WM_ERASEBKGND: erasing bg
+ INFO  ..\..\src\browserfeatures\filecache.cpp:169 (turbulenz::FileCache::Initialize) Cache dir: C:\Users\Primal_Bear\AppData\Local\Turbulenz\boundless\static-cache\
+ INFO  ..\..\src\appbase\standaloneplatformreaders.cpp:568 (turbulenz::StandalonePlatform::SetHttpCachePath) HttpCache: enabled (C:\Users\Primal_Bear\AppData\Local\Turbulenz\boundless\static-cache)
+ INFO  ..\standalone\standalone.cpp:88 (turbulenz::oortonline::OortApplication::ApplicationStartup) GameCodeStaticInitialize
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11context.cpp:342 (turbulenz::graphicsdriver::D3D11Context::Initialize) GPU INFO:
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11context.cpp:343 (turbulenz::graphicsdriver::D3D11Context::Initialize)  1 devices:
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11context.cpp:348 (turbulenz::graphicsdriver::D3D11Context::Initialize)   0: AMD Radeon HD 5800 Series (Driver Ver: '15.301.1901.0', Date: '2-26-2016')
+ INFO  ..\..\src\appbase\win\winentry.cpp:429 (turbulenz::WinNativeEntry::HostWndProc) WM_ERASEBKGND: erasing bg
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11graphicsdriver.cpp:2771 (turbulenz::graphicsdriver::D3D11GraphicsDriver::Initialize) D3D11Info:
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11graphicsdriver.cpp:2791 (turbulenz::graphicsdriver::D3D11GraphicsDriver::Initialize)  Adapter                  : AMD Radeon HD 5800 Series
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11graphicsdriver.cpp:2792 (turbulenz::graphicsdriver::D3D11GraphicsDriver::Initialize)  VRAM                     : 1059917824
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11graphicsdriver.cpp:2793 (turbulenz::graphicsdriver::D3D11GraphicsDriver::Initialize)  DriverConcurrentCreates  : TRUE
+ INFO  ..\..\src\graphicsdriver\d3d11\d3d11graphicsdriver.cpp:2794 (turbulenz::graphicsdriver::D3D11GraphicsDriver::Initialize)  DriverCommandLists       : FALSE
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:64 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsTextureCompression = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:65 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsDXT1 = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:66 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsDXT3 = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:67 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsDXT5 = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:68 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsETC1 = false
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:69 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsPVRTC = false
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:70 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupports3DTextures = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:71 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsTexture2DArrays = false
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:72 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsPackedDepthStencil = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:73 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsTextureFloat = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:74 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsTextureHalfFloat = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:75 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsDepthTexture = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:76 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupports_OES_texture_npot = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:77 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupports_GL_TEXTURE_MAX_ANISOTROPY_EXT = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:78 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsOcclusionQueries = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:79 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsTimerQueries = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:80 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupportsBYTE4N = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:81 (turbulenz::graphicsdriver::LogSupportedFeatures) sSupports32bitIndicies = true
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:82 (turbulenz::graphicsdriver::LogSupportedFeatures) sMaxAnisotropy = 16
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:83 (turbulenz::graphicsdriver::LogSupportedFeatures) sMaxTextureSize = 16384
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:84 (turbulenz::graphicsdriver::LogSupportedFeatures) sMaxCubemapSize = 16384
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:85 (turbulenz::graphicsdriver::LogSupportedFeatures) sMax3DTextureSize = 2048
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:86 (turbulenz::graphicsdriver::LogSupportedFeatures) sMaxRenderTargetColorTextures = 4
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:87 (turbulenz::graphicsdriver::LogSupportedFeatures) sMaxRenderBufferSize = 16384
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:88 (turbulenz::graphicsdriver::LogSupportedFeatures) sTextureUnits = 16
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:89 (turbulenz::graphicsdriver::LogSupportedFeatures) sVertexTextureUnits = 16
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:90 (turbulenz::graphicsdriver::LogSupportedFeatures) sVertexShaderPrecision = 23
+ INFO  ..\..\src\graphicsdriver\graphicsdriver.cpp:91 (turbulenz::graphicsdriver::LogSupportedFeatures) sFragmentShaderPrecision = 23
+ INFO  ..\..\src\engine\networkdevice.cpp:203 (turbulenz::NetworkDevice::Initialize) certificate path: C:\Program Files (x86)\Steam\steamapps\common\Boundless\ca-bundle.crt
+[2016-12-19 19:15:27]   INFO  Game version:  development (42d00d8f)
+[2016-12-19 19:15:27]   INFO  ..\scripts\application.cpp:207 (turbulenz::oortonline::FindGameRoot) starting root: C:\Program Files (x86)\Steam\steamapps\common\Boundless
+[2016-12-19 19:15:27]   INFO  ..\scripts\application.cpp:198 (turbulenz::oortonline::IsValidBasePath)  path = C:\Program Files (x86)\Steam\steamapps\common\Boundless\assets, exists = true
+[2016-12-19 19:15:27]   INFO  Loading Audio from assets/wwise/Windows/
+[2016-12-19 19:15:27]   INFO  ..\scripts\application.cpp:559 (turbulenz::oortonline::Application::CreateGameSession) session url: https://ga.me/api/v1/games/create-session/boundless-preview
+[2016-12-19 19:15:28]   INFO  ..\..\src\steam\steam.cpp:916 (turbulenz::SteamServices::GetAuthSessionTicket) Got auth token (234 bytes)
+[2016-12-19 19:15:28]   INFO  Loading strings
+[2016-12-19 19:15:28]   INFO  Updating language mappings...
+[2016-12-19 19:15:28]   WARN  Language is missing string for ID: "GUI_ITEM_WANTED_CONFIG"
+[2016-12-19 19:15:28]   INFO  ItemTypesData::CheckStrings
+[2016-12-19 19:15:28]   WARN  Item ITEM_TYPE_AMMO_GRAPPLE_CLAW_METAL string missing
+[2016-12-19 19:15:28]   WARN  Item ITEM_TYPE_AMMO_GRAPPLE_CLAW_ALLOY string missing
+[2016-12-19 19:15:28]   WARN  Item ITEM_TYPE_AMMO_GRAPPLE_CLAW_GEM string missing
+[2016-12-19 19:15:28]   WARN  Item  string missing
+[2016-12-19 19:15:28]   INFO  Loading ArmorTypesData
+[2016-12-19 19:15:28]   INFO  Loading recipes
+[2016-12-19 19:15:28]   INFO  Recipes version 2
+[2016-12-19 19:15:28]   INFO  Loading progression data
+[2016-12-19 19:15:28]   INFO  MeshWorkerManager onMessage 21
+[2016-12-19 19:15:28]   INFO  WORKER_CREATED
+[2016-12-19 19:15:29]   INFO  Loading compass data
+[2016-12-19 19:15:29]   INFO  Loading achievement data
+[2016-12-19 19:15:57]   INFO  Parsing tree:assets/characters/cat_race/animation_map_firstperson.json
+[2016-12-19 19:15:57]   INFO  Parsing tree:assets/characters/cat_race/animation_map_firstperson.json
+[2016-12-19 19:15:58]   INFO  Parsing tree:assets/characters/cat_race/animation_map_thirdperson.json
+[2016-12-19 19:15:58]   INFO  Parsing tree:assets/characters/cat_race/animation_map_thirdperson_upperbodylayers.json
+[2016-12-19 19:16:24]   INFO  Loading complete after 57.14s
+[2016-12-19 19:16:25]   INFO  WebWorker ready
+[2016-12-19 19:16:25]   INFO  Getting auth token for Dwarven-Stone-Bear
+[2016-12-19 19:16:29]   INFO  Login 'Dwarven-Stone-Bear' to Discovery Server (https://gs-testing.playboundless.com:8902)
+[2016-12-19 19:16:30]   INFO  login succeeded
+[2016-12-19 19:16:30]   INFO  got player with world first
+[2016-12-19 19:16:30]   INFO  Joining world 'runtimeplayerstartworld' ...
+[2016-12-19 19:16:30]   INFO  updating visibleUniverse for gameWorld 'runtimeplayerstartworld'
+[2016-12-19 19:16:30]   INFO  GET https://gs-testing.playboundless.com:8902/visible/runtimeplayerstartworld/Dwarven-Stone-Bear/X/first
+[2016-12-19 19:16:30]   INFO  Player entity added   in world runtimeplayerstartworld with id 1
+[2016-12-19 19:16:30]   INFO  
+[2016-12-19 19:16:30]   INFO  requesting planet asset for world 'first' LOD(2) for gameWorld 'runtimeplayerstartworld'
+[2016-12-19 19:16:30]   INFO  starting new request for planet assets for world 'first' LOD(2)
+[2016-12-19 19:16:30]   INFO  GET https://gs-testing.playboundless.com:8902/planetdata/first/2
+[2016-12-19 19:16:30]   INFO  worldName=runtimeplayerstartworld
+[2016-12-19 19:16:30]   INFO   type=root
+[2016-12-19 19:16:30]   INFO      worldName=first
+[2016-12-19 19:16:30]   INFO       type=recommended
+[2016-12-19 19:16:30]   INFO       orbitDistance=8.000000
+[2016-12-19 19:16:30]   INFO      worldName=demo_capital
+[2016-12-19 19:16:30]   INFO       type=other_far
+[2016-12-19 19:16:30]   INFO       orbitDistance=731.403198
+[2016-12-19 19:16:30]   INFO      worldName=point6_b
+[2016-12-19 19:16:30]   INFO       type=other_mid
+[2016-12-19 19:16:30]   INFO       orbitDistance=240.000000
+[2016-12-19 19:16:30]   INFO      worldName=point6_a
+[2016-12-19 19:16:30]   INFO       type=other_far
+[2016-12-19 19:16:30]   INFO       orbitDistance=708.616516
+[2016-12-19 19:16:30]   INFO      worldName=point6_d
+[2016-12-19 19:16:30]   INFO       type=other_mid
+[2016-12-19 19:16:30]   INFO       orbitDistance=485.780029
+[2016-12-19 19:16:30]   INFO      worldName=point4_b
+[2016-12-19 19:16:30]   INFO       type=other_mid
+[2016-12-19 19:16:30]   INFO       orbitDistance=240.000000
+[2016-12-19 19:16:30]   INFO      worldName=point4_a
+[2016-12-19 19:16:30]   INFO       type=other_far
+[2016-12-19 19:16:30]   INFO       orbitDistance=700.031555
+[2016-12-19 19:16:30]   INFO      worldName=point4_d
+[2016-12-19 19:16:30]   INFO       type=other_mid
+[2016-12-19 19:16:30]   INFO       orbitDistance=517.773987
+[2016-12-19 19:16:30]   INFO      worldName=point3_b
+[2016-12-19 19:16:30]   INFO       type=other_mid
+[2016-12-19 19:16:30]   INFO       orbitDistance=240.000000
+[2016-12-19 19:16:30]   INFO      worldName=point3_a
+[2016-12-19 19:16:30]   INFO       type=other_far
+[2016-12-19 19:16:30]   INFO       orbitDistance=670.291382
+[2016-12-19 19:16:30]   INFO      worldName=point3_c
+[2016-12-19 19:16:30]   INFO       type=other_mid
+[2016-12-19 19:16:30]   INFO       orbitDistance=487.291199
+[2016-12-19 19:16:30]   INFO      worldName=point5_a
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=550.000000
+[2016-12-19 19:16:30]   INFO      worldName=point5_b
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=580.000000
+[2016-12-19 19:16:30]   INFO      worldName=point5_c
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=585.000000
+[2016-12-19 19:16:30]   INFO      worldName=point5_d
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=585.000000
+[2016-12-19 19:16:30]   INFO      worldName=point5_e
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=585.000000
+[2016-12-19 19:16:30]   INFO      worldName=combat
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=-750.000000
+[2016-12-19 19:16:30]   INFO      worldName=point4_c
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=785.000000
+[2016-12-19 19:16:30]   INFO      worldName=point4_e
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=785.000000
+[2016-12-19 19:16:30]   INFO      worldName=point1_a
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=-950.000000
+[2016-12-19 19:16:30]   INFO      worldName=point1_b
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=-920.000000
+[2016-12-19 19:16:30]   INFO      worldName=point1_c
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=-915.000000
+[2016-12-19 19:16:30]   INFO      worldName=point1_d
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=-915.000000
+[2016-12-19 19:16:30]   INFO      worldName=point1_e
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=-915.000000
+[2016-12-19 19:16:30]   INFO      worldName=point3_d
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=985.000000
+[2016-12-19 19:16:30]   INFO      worldName=point3_e
+[2016-12-19 19:16:30]   INFO       type=ring
+[2016-12-19 19:16:30]   INFO       orbitDistance=985.000000
+[2016-12-19 19:16:30]   INFO  [runtimeplayerstartworld] adding portal to 'first'
+[2016-12-19 19:16:30]   INFO  Passed task 0 in achievement MineRock
+[2016-12-19 19:16:31]   INFO  [runtimeplayerstartworld] making portal to 'first' active
+[2016-12-19 19:16:31]   INFO  Connecting to 'first' with address 'wss://gs-testing.playboundless.com:8443/websocket/game
+[2016-12-19 19:16:31]   INFO  updating visibleUniverse for gameWorld 'first'
+[2016-12-19 19:16:31]   INFO  GET https://gs-testing.playboundless.com:8902/visible/first/Dwarven-Stone-Bear/X/X
+[2016-12-19 19:16:31]   INFO  TOOL_SLINGBOW_STONE: ITEM_COOLDOWN hand 0 ammo AMMO_BOLT_STONE
+[2016-12-19 19:16:31]   INFO  TOOL_SLINGBOW_STONE: ITEM_EQUIPPED hand 0 ammo AMMO_BOLT_STONE
+[2016-12-19 19:16:31]   INFO  
+[2016-12-19 19:16:31]   INFO  requesting planet asset for world 'demo_capital' LOD(2) for gameWorld 'first'
+[2016-12-19 19:16:31]   INFO  starting new request for planet assets for world 'demo_capital' LOD(2)
+[2016-12-19 19:16:31]   INFO  GET https://gs-testing.playboundless.com:8902/planetdata/demo_capital/2
+[2016-12-19 19:16:31]   INFO  requesting planet asset for world 'combat' LOD(3) for gameWorld 'first'
+[2016-12-19 19:16:31]   INFO  starting new request for planet assets for world 'combat' LOD(3)
+[2016-12-19 19:16:31]   INFO  GET https://gs-testing.playboundless.com:8902/planetdata/combat/3
+[2016-12-19 19:16:31]   INFO  worldName=first
+[2016-12-19 19:16:31]   INFO   type=root
+[2016-12-19 19:16:31]   INFO      worldName=demo_capital
+[2016-12-19 19:16:31]   INFO       type=local
+[2016-12-19 19:16:31]   INFO       orbitDistance=30.000000
+[2016-12-19 19:16:31]   INFO      worldName=combat
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-70.000000
+[2016-12-19 19:16:31]   INFO      worldName=point6_a
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=560.000000
+[2016-12-19 19:16:31]   INFO      worldName=point6_b
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=580.000000
+[2016-12-19 19:16:31]   INFO      worldName=point6_c
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=585.000000
+[2016-12-19 19:16:31]   INFO      worldName=point6_d
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=585.000000
+[2016-12-19 19:16:31]   INFO      worldName=point6_e
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=585.000000
+[2016-12-19 19:16:31]   INFO      worldName=point1_a
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-750.000000
+[2016-12-19 19:16:31]   INFO      worldName=point1_b
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-720.000000
+[2016-12-19 19:16:31]   INFO      worldName=point1_c
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-715.000000
+[2016-12-19 19:16:31]   INFO      worldName=point1_d
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-715.000000
+[2016-12-19 19:16:31]   INFO      worldName=point1_e
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-715.000000
+[2016-12-19 19:16:31]   INFO      worldName=point5_a
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=750.000000
+[2016-12-19 19:16:31]   INFO      worldName=point5_b
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=780.000000
+[2016-12-19 19:16:31]   INFO      worldName=point5_c
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=785.000000
+[2016-12-19 19:16:31]   INFO      worldName=point5_d
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=785.000000
+[2016-12-19 19:16:31]   INFO      worldName=point5_e
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=785.000000
+[2016-12-19 19:16:31]   INFO      worldName=point2_a
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-950.000000
+[2016-12-19 19:16:31]   INFO      worldName=point2_b
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-920.000000
+[2016-12-19 19:16:31]   INFO      worldName=point2_c
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-915.000000
+[2016-12-19 19:16:31]   INFO      worldName=point2_d
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-915.000000
+[2016-12-19 19:16:31]   INFO      worldName=point2_e
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=-915.000000
+[2016-12-19 19:16:31]   INFO      worldName=point4_a
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=950.000000
+[2016-12-19 19:16:31]   INFO      worldName=point4_b
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=980.000000
+[2016-12-19 19:16:31]   INFO      worldName=point4_c
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=985.000000
+[2016-12-19 19:16:31]   INFO      worldName=point4_d
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=985.000000
+[2016-12-19 19:16:31]   INFO      worldName=point4_e
+[2016-12-19 19:16:31]   INFO       type=ring
+[2016-12-19 19:16:31]   INFO       orbitDistance=985.000000
+[2016-12-19 19:16:31]   INFO  WebSocket opened for first
+[2016-12-19 19:16:31]   INFO  got 808522B for planet assets for world 'first' LOD(2)
